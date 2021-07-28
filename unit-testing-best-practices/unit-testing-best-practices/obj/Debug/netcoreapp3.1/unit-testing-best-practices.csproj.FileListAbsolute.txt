@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\bin\Debug\netcoreapp3.1\unit-testing-best-practices.deps.json
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\bin\Debug\netcoreapp3.1\unit-testing-best-practices.dll
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\bin\Debug\netcoreapp3.1\unit-testing-best-practices.pdb
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\obj\Debug\netcoreapp3.1\unit-testing-best-practices.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\obj\Debug\netcoreapp3.1\unit-testing-best-practices.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\obj\Debug\netcoreapp3.1\unit-testing-best-practices.AssemblyInfo.cs
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\obj\Debug\netcoreapp3.1\unit-testing-best-practices.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\obj\Debug\netcoreapp3.1\unit-testing-best-practices.dll
+C:\Users\Alex\Desktop\training-devops-tooling\samples\unit-testing-best-practices\unit-testing-best-practices\obj\Debug\netcoreapp3.1\unit-testing-best-practices.pdb
